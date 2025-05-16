@@ -1,0 +1,47 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: rgb(39, 38, 38);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #920420;
+    color: aliceblue;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 10px auto;
+    max-width: 600px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    box-shadow: 0 2px 7px rgba(29, 0, 0, 0.131);
+}
+
+h2{
+    color: brown;
+}
+
+.about {
+    padding: 20px;
+
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #920420;
+    color: antiquewhite;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url(futura/Futura\ Book.ttf);
+    
+
+}
